@@ -48,9 +48,9 @@ Any images in any folder structure you please.
 Note: For a single-page book everything gets merged into a single page (hence, the name ;-) and for your images in your build
 you have three options:
 
-1) All images get copied along into the "top-level" folder of the single-page book   - or -
-2) All images get copied along into a single `/i`, `/images` or `/your-name-here`  (sub) folder  - or -
-3) All images get base64 encoded (ascii-fied) and inlined and embedded into the single-page book.
+1. All images get copied along into the "top-level" folder of the single-page book   - or -
+2. All images get copied along into a single `/i`, `/images` or `/your-name-here`  (sub) folder  - or -
+3. All images get base64 encoded (ascii-fied) and inlined and embedded into the single-page book.
 
 
 
