@@ -2,7 +2,7 @@
 
 ## What's Manuscripts?
 
-Manuscripts is (yet) another book format for Markdown.
+Manuscripts is a free (and public domain) book format for Markdown.
 Basically just a bunch of text files (in markdown) plus a `book.yml` (for the book info e.g. title, author, edition, year, etc.)
 and `contents.yml` (for table of contents and the file structure) file.
 
