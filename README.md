@@ -7,7 +7,7 @@ Basically just a bunch of text files (in markdown) plus a `book.yml` (for the bo
 and `contents.yml` (for table of contents and the file structure) file.
 
 
-## Book Info & Structure
+## Book Info, Table of Contents & File Structure
 
 ### `book.yml`
 
