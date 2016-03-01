@@ -38,7 +38,18 @@ Name. Open Questions?
 
 ## Text
 
-Any markdown files in any order.
+Any text files using the markdown formatting style in any order in any folder structure you please.
+
+
+## Images
+
+Any images in any folder structure you please.
+
+Note: For a single-page book everything gets merged into a single page (hence, the name ;-) and for your images in your build
+you have two options:
+
+1) All images get copied along into the "top-level" folder of the single-page book   - or -
+2) All images get copied along into a single `/i`, `/images` or `/your-name-here`  (sub) folder.
 
 
 
