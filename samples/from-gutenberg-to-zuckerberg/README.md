@@ -1,8 +1,8 @@
 # From Gutenberg to Zuckerberg
 
-by John Naughton
-
 Disruptive Innovation in the Age of the Internet
+
+by John Naughton
 
 
 ## Contents
