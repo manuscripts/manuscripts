@@ -1,0 +1,22 @@
+lang: de
+title: Stadt im Rausch
+subtitle: Meine Suche nach dem Glück in Las Vegas
+author:
+  name: Christoph Wöhrle
+  year: 1979
+year: 2015
+publisher: DuMont
+series: DuMont Reiseabenteuer
+isbn: 978-3-7701-8273-2
+
+## paperback; 248 pages
+# dimensions: 12.8 cm x 19.7 cm
+# isbn (ebook): 978-3-7701-9972-2
+
+
+##
+#  note: try to follow/ (re)use keys from bibtex
+#   check if subtitle exits?
+#
+#  allow aliases e.g. subtitle or tagline or ?? etc.
+

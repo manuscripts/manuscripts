@@ -15,6 +15,12 @@ Name. Open Questions?
 
 - use `book.yml` or `.book.yml` or `_book.yml` or `.book/book.yml`  ??
 
+
+
+#### Keys
+
+##### Author(s)
+
 - use just `author` or `authors`
 - or use 
 
@@ -25,8 +31,12 @@ author:
 authors:
   - name:
   - name:
+-or-
+author:
 ```
   
+Allow one or many or shortcut (w/o name).
+
 
 
 ### `contents.yml`
@@ -34,6 +44,31 @@ authors:
 Name. Open Questions?
 
 - use `contents.yml` or `.contents.yml` or `_contents.yml` or `.book/contents.yml` ??
+
+
+#### Keys
+
+##### Id [optional]
+
+Use `id` for references.
+
+##### Title [required]
+
+Use `title` for title.
+
+##### Label [optional]
+
+Use `label` for prefix e.g. Appendix, Chapter 1, Part I, Section 1.1, etc.
+
+##### Number [optional]
+
+Use `n` or `num` or `number` for counter (note: is not a number but a string)
+e.g.: 1. or 1.1. or A.1. or I.§1b etc.
+
+##### Path [optional]
+
+Use `path` for the relative local file path.
+
 
 
 ## Text

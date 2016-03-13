@@ -1,0 +1,36 @@
+- title: Einleitung
+
+- label: Kapitel 1
+  title: Poker um halb acht
+- label: Kapitel 2
+  title: Kämpf um dein Leben
+- label: Kapitel 3
+  title: Eigene Versuche am Spieltisch
+- label: Kapitel 4
+  title: Raus aus der Glitzerstadt
+- label: Kapitel 5
+  title: Nachts unter Spielern
+- label: Kapitel 6
+  title: Steaks and Strippers
+- label: Kapitel 7
+  title: Herzinfarkt am Grill
+- label: Kapitel 8
+  title: Mein Kater im Himmel
+- label: Kapitel 9
+  title: Studieren in Las Vegas und warum Dr. Blaze doch kein Arzt werden wird
+- label: Kapitel 10
+  title: Der Glücklichmacher
+- label: Kapitel 11
+  title: Liebe statt Spieltipps
+- label: Kapitel 12
+  title: Die Tunnelmenschen von Las Vegas
+- label: Kapitel 13
+  title: "Komm, ich verzaubere dich"       ## check komma (,) requires escape with "" ?? -- add to gotchas/docu
+- label: Kapitel 14
+  title: Es kann nur einen geben
+- label: Kapitel 15
+  title: Wie der Tod nach Vegas kam
+
+- title: "Nachwort: Glück(sforschung)"     ## check double-colon (:) requires escape with "" ?? -- add to gotchas/docu
+- title: Literatur- und Quellenverzeichnis
+
