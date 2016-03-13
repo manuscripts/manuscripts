@@ -1,0 +1,28 @@
+- title: "Prologue: Why This Book?"    ## check double-colon (:) requires escape with "" ?? -- add to gotchas/docu
+
+- n: 1.
+  title: Take the Long View
+- n: 2.
+  title: The Web Is Not the Net
+- n: 3.
+  title: "For the Net, Disruption Is a Feature, Not a Bug"      ## check komma (,) requires escape with "" ?? -- add to gotchas/docu
+- n: 4.  
+  title: "Think Ecology, Not Just Economics"
+- n: 5.
+  title: Complexity Is the New Reality
+- n: 6.
+  title: The Network Is Now the Computer
+- n: 7.
+  title: The Web Is Evolving
+- n: 8.
+  title: 'Copyrights and "Copywrongs": Or, Why Our Intellectual Property Regime No Longer Makes Sense'
+- n: 9.
+  title: "Orwell vs Huxley: The Bookends of Our Networked Future?"
+  
+- title: Epilogue
+- title: Appendix
+- title: Acknowledgements
+- title: Glossary
+- title: Notes
+- title: Index
+
