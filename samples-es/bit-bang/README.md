@@ -2,7 +2,7 @@
 
 Viaje al interior de la revolución digital
 
-by Ariel Torres
+Por Ariel Torres
 
 ## Índice
 
