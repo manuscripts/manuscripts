@@ -1,6 +1,6 @@
 # Shakespeare in 60 Minuten
 
-by Charlotte Lyne
+Von Charlotte Lyne
 
 
 ## Inhalt
