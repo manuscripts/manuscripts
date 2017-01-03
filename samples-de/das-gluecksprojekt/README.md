@@ -2,7 +2,7 @@
 
 Wie ich (fast) alles versucht habe, der glücklichste Mensch der Welt zu werden
 
-by Alexandra Reinwarth
+Von Alexandra Reinwarth
 
 ## Inhalt
 
