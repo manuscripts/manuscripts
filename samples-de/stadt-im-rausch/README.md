@@ -2,7 +2,7 @@
 
 Meine Suche nach dem Glück in Las Vegas
 
-by Christoph Wöhrle
+Von Christoph Wöhrle
 
 
 ## Inhalt
