@@ -2,7 +2,7 @@
 
 Porträt einer Region - Sieben Staaten: Gemeinsamkeiten und Unterschiede
 
-by Ralf Leonhard
+Von Ralf Leonhard
 
 ## Inhalt
 
